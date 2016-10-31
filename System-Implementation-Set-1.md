@@ -36,7 +36,16 @@ Codings
              return true, otherwise, return false.
 
 
-    2. Writing Data
-
+    2. Database
+    
+         - Someone should setup a database. This can be done in pairs.
+         
+         
+# Guidelines
+    1. Please use classes and methods, if possible.
+    2. Test every exception your code might catch.
+    3. At first, the solution to these problems will require cheating the output (inflexible code), but that will be adjusted as time
+    passes.
+    4. Submission is every thursday starting next week.
                
           

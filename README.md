@@ -12,13 +12,30 @@ This is a project held done by the Computer Science Student Organization in coll
 ##Involved Personnel
 
 ###<div id="advisor-section">Advisors</div>
-  * Mr. Marlon Pere&ntilde;
+  * Mr. Marlon Pere&ntilde;a
   * Mr. Edilberto Octa Solis
 
 ###Contributors
-  * synrr
-  * King Christopher Pe&ntilde;
+
+#### Programmers
+  * King Christopher Pe&ntilde;a
   * Karlos Daniel Sagun
   * Nigel Perey
   * Jeffrey Delgado
   * Jaison Maceda
+  * Leonardo Araga
+  * Christian Langit
+  * Jayson Cabanglan
+  * John Mark Jaudian
+
+#### Canvassers/Documeentation
+  * Melanie Acquen
+  * Xyvvert Pullan
+  * Joy Marian Paca&ntilde;a
+  * Rachelle Hepas (pending)
+  * Lealoryn Rivera (pending)
+  * Chiara Marie Dela Cruz (pending)
+
+#### Both
+    * synrr
+    * Denmark Mondejar

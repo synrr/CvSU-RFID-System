@@ -33,9 +33,9 @@ This is a project held done by the Computer Science Student Organization in coll
   * Xyvvert Pullan
   * Joy Marian Paca&ntilde;a
   * Rachelle Hepas (pending)
-  * Lealoryn Rivera (pending)
-  * Chiara Marie Dela Cruz (pending)
+  * Lealoryn Rivera
+  * Chiara Marie Dela Cruz
 
 #### Both
-    * synrr
-    * Denmark Mondejar
+  * synrr
+  * Denmark Mondejar
